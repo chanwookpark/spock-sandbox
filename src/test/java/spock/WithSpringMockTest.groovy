@@ -1,7 +1,6 @@
 package spock
 
 import org.springframework.test.web.servlet.MockMvc
-import org.springframework.test.web.servlet.MockMvcBuilder
 import org.springframework.test.web.servlet.setup.MockMvcBuilders
 import spock.lang.Specification
 
