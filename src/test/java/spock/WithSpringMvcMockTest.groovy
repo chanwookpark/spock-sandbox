@@ -7,7 +7,7 @@ import spock.lang.Specification
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*
 
-class WithSpringMockTest extends Specification {
+class WithSpringMvcMockTest extends Specification {
 
     MockMvc mockMvc
     UserService mockService
